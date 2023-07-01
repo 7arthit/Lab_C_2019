@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1676518132 source:c:\users\arthit thaweebot\gl\translation\main.c
+	<gl\gl.h>
+	<gl\glut.h>
+	<math.h>
+	<windows.h>
+

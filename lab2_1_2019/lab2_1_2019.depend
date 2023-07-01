@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1670468768 source:c:\users\arthit thaweebot\gl\lab2_1_2019\main.c
+	<gl\gl.h>
+	<gl\glut.h>
+	<math.h>
+	<windows.h>
+
